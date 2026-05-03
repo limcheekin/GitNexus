@@ -1,0 +1,1 @@
+{"nodes": [{"id": "changelog_v1_6_3", "label": "GitNexus v1.6.3 Changes", "file_type": "document", "source_file": "gitnexus/CHANGELOG.md"}], "edges": [{"source": "changelog_v1_6_3", "target": "pipeline_group_analysis", "relation": "references", "confidence": "INFERRED", "confidence_score": 0.8, "source_file": "gitnexus/CHANGELOG.md"}], "hyperedges": []}
